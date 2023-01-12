@@ -14,4 +14,6 @@ There is a little login simbol next to "Movie App" but it was meant for checking
 
 ![image](https://user-images.githubusercontent.com/72898242/212174611-1cf3947b-3b08-4038-a6c2-efc0536238b1.png)
 
+![image](https://user-images.githubusercontent.com/72898242/212174905-479da85a-cb04-4901-8dcf-4fbc5f1f064d.png)
+
 ![image](https://user-images.githubusercontent.com/72898242/212174696-6a466844-4b37-4322-8c16-d357e5852683.png)

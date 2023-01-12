@@ -9,3 +9,5 @@ The cards can also be long clicked for more options including additional informa
 
 
 There is a little login simbol next to "Movie App" but it was meant for checking if emails were valid (not actually existing).
+
+![image](https://user-images.githubusercontent.com/72898242/212174423-5277ce7d-f000-4e39-b066-35f0b89582dd.png)
